@@ -25,7 +25,7 @@
 * **Таблиці фактів:** `Fact_Employment`, `Fact_Expenses`, `Fact_FinancialResults`.
 * **Таблиці вимірів:** `Dim_Activity` (Галузі), `Dim_Region` (Регіони), `Dim_Date` (Календар).
 
-![Схема даних](images/2026-02-25_11-53.png) 
+![Схема даних](Ukraine_Economy_PowerBI/images/2026-02-25_11-53.png) 
 
 ---
 
